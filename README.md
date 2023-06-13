@@ -1,2 +1,2 @@
 # docker
-docker开发环境
+Full development environment for Docker.
